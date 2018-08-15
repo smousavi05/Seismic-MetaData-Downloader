@@ -1,10 +1,8 @@
 # seismic metadata preparation 
 (with application to North California Earthquake Data Center)
 
-This code search and download metadata for siesmic phases and associated station information. 
-Then it decode the hypoinverse format and write it as a SQL database. 
-The database will next be used to match with waveform data. 
-The database can easily be converted to Panda dataframe for exploring the data. 
+This routin includes three main classed for downloading event and phase arrival metadata, station informationm, and reformating and building SQL database. 
+This database can be used to extract metadata associated with waveforms. 
 
 # See the notebook for instructions
 ![Downloading phase arrival time and event information](F1.png)
