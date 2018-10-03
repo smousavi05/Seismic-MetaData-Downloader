@@ -1,4 +1,7 @@
 
+# seismic metadata preparation 
+-------------------
+(applied to North California Earthquake Data)
 
 This routine includes three main classed for downloading event and phase arrival metadata, station information, and reformatting and building SQL database.
 
