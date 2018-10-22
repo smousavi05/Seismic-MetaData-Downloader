@@ -1,4 +1,3 @@
-# seismic metadata preparation 
 
 -------------------
 (applied to North California Earthquake Data)
